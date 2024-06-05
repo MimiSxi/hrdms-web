@@ -18,6 +18,9 @@ selenium-debug.log
 *.njsproj
 *.sln
 *.local
-
+.env*
+*.zip
+*.rar
+*.git
 package-lock.json
 yarn.lock
